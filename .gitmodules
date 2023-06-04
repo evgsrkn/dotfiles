@@ -1,3 +1,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = git@github.com:evgsrkn/nvim.git
+[submodule "i3wm"]
+	path = i3wm
+	url = git@github.com:evgsrkn/i3wm.git
