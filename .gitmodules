@@ -1,9 +1,9 @@
-[submodule "nvim"]
-	path = nvim
-	url = git@github.com:evgsrkn/nvim.git
-[submodule "i3"]
-	path = i3
-	url = git@github.com:evgsrkn/i3.git
 [submodule "i3blocks"]
 	path = i3blocks
 	url = git@github.com:evgsrkn/i3blocks.git
+[submodule "i3"]
+	path = i3
+	url = git@github.com:evgsrkn/i3.git
+[submodule "nvim"]
+	path = nvim
+	url = git@github.com:evgsrkn/nvim.git
